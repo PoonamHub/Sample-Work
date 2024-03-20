@@ -1,6 +1,6 @@
 **What to Use**
 
-Study the structure of the input "help_all_class.txt", map the structure of your API. Ensure you have a similarly structured input. Download the script "classes_code.ipynb", make edits according to your API structure and specify the DTD files as per your organization. Run the script.
+Refer "ppt_overview.pdf" file. Study the structure of the input "help_all_class.txt", map the structure of your API. Ensure you have a similarly structured input. Download the script "classes_code.ipynb", make edits according to your API structure and specify the DTD files as per your organization. Run the script.
 
 **Summary of the topic** 
 
