@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<!DOCTYPE topic PUBLIC '-//Arbortext//ANSYS DTD DocBook XML V4.0//EN' '../../tools/custom_2012/doctypes/ansysdocbook/ansysdocbook.dtd'>
+<chapter condition="ROOT" id="K_Element">
+  <title>K_Element</title>
+  <para> dummy content.</para>
+  <para>SEE ALSO:</para>
+  <para>
+    <xref linkend=" dummy content."/>
+  </para>
+  <para>DETAILS:</para>
+  <programlisting width="80">dummy content</programlisting>
+  <para>
+    <emphasis role="bold">FUNCTIONS:</emphasis>
+  </para>
+  <section>
+    <title condition="SectionHead">Function___X</title>
+    <para>  dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___X(syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>  dummy content.</para>
+    </section>
+  </section>
+</chapter>

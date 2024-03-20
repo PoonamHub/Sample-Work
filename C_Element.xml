@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<!DOCTYPE topic PUBLIC '-//Arbortext//ANSYS DTD DocBook XML V4.0//EN' '../../tools/custom_2012/doctypes/ansysdocbook/ansysdocbook.dtd'>
+<chapter condition="ROOT" id="C_Element">
+  <title>C_Element</title>
+  <para>dummy content.</para>
+  <para>SEE ALSO:<itemizedlist spacing="compact"><listitem><para><xref linkend=" D_Element"/></para></listitem></itemizedlist><itemizedlist spacing="compact"><listitem><para><xref linkend=" H_Element"/></para></listitem></itemizedlist></para>
+  <para>DETAILS:</para>
+  <programlisting width="80">dummy_content dummy_content</programlisting>
+  <para>
+    <emphasis role="bold">FUNCTIONS:</emphasis>
+  </para>
+  <section>
+    <title condition="SectionHead">Function___E</title>
+    <para>  dummy content</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___E(syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def</para>
+        </listitem>
+        <listitem>
+          <para>  arg3 : arg def</para>
+        </listitem>
+        <listitem>
+          <para>  arg4 : arg def</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>DETAILS</title>
+      <programlisting width="80">        dummy content        dummy content        dummy content        dummy content
+        dummy content        dummy content</programlisting>
+      <programlisting width="80">		        dummy content        dummy content        dummy content        dummy content
+        dummy content</programlisting>
+      <programlisting width="80">				        dummy content        dummy content        dummy content        dummy
+ content        dummy content</programlisting>
+      <programlisting width="80">						</programlisting>
+      <programlisting width="80">						        dummy content        dummy content        dummy content</programlisting>
+      <programlisting width="80">        </programlisting>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___E</title>
+    <para>  dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___E(syntax, syntax={'syntax': 'syntax', 'syntax': syntax}</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (type=syntax, required=syntax)</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+        <listitem>
+          <para>  arg3 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+        <listitem>
+          <para>  arg4 : arg def (type=str, default_value=arg def)</para>
+        </listitem>
+        <listitem>
+          <para>  arg5 : arg def (type=dict, default_value=arg def)</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>DETAILS</title>
+      <programlisting width="80">        dummy content        dummy content        dummy content        dummy content
+        dummy content        dummy content</programlisting>
+      <programlisting width="80">		        dummy content        dummy content        dummy content        dummy content
+        dummy content</programlisting>
+      <programlisting width="80">				        dummy content        dummy content        dummy content        dummy
+ content        dummy content</programlisting>
+      <programlisting width="80">						</programlisting>
+      <programlisting width="80">						        dummy content        dummy content        dummy content</programlisting>
+      <programlisting width="80">        </programlisting>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___F</title>
+    <para>  dummy content</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___F(syntax, syntax={'syntax': 'syntax', 'syntax': syntax}</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (type=syntax, required=syntax)</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+        <listitem>
+          <para>  arg3 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>dummy content</para>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___G</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___G(syntax=syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (type=syntax, required=syntax)</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>dummy content</para>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___H</title>
+    <para>  dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___H(syntax, syntax, syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (type=syntax, required=syntax)</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+        <listitem>
+          <para>  arg3 : arg def (type=dict, default_value={'dummy', 'dummy'})</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>dummy content</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___I</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___I(syntax=syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___J</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___J(syntax=syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>        dummy content dummy content : dict of {dummy('dummy') : [dummy('dummy')]}</para>
+      <para>        dummy content dummy content  : dict of {dummy('dummy') : [dummy('dummy')]}</para>
+      <para>        </para>
+    </section>
+    <section>
+      <title>DETAILS</title>
+      <programlisting width="80">        dummy content dummy content. dummy content dummy content.</programlisting>
+      <programlisting width="80">        </programlisting>
+    </section>
+    <section>
+      <title>SEE ALSO</title>
+      <para>H_Element</para>
+      <para>Function___C in A_Element</para>
+      <para>G_Element</para>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___K</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___K(syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <para>  arg1 : arg def (syntax=syntax, syntax=syntax)</para>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>dummy content; dummy content</para>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___L</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___L()</screen>
+      </para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___M</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___M()</screen>
+      </para>
+    </section>
+    <section>
+      <title>RETURN VALUE</title>
+      <para>dummy content dummy content.</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___N</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___N(syntax='syntax')</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <para>  arg1 : arg def (dummy=dummy, dummy='dummy')</para>
+    </section>
+    <section>
+      <title>DETAILS</title>
+      <programlisting width="80">        dummy content        dummy content        dummy content        dummy content
+        dummy content        dummy content</programlisting>
+      <programlisting width="80">		        dummy content        dummy content        dummy content        dummy content
+        dummy content</programlisting>
+      <programlisting width="80">				        dummy content        dummy content        dummy content        dummy
+ content        dummy content</programlisting>
+      <programlisting width="80">						</programlisting>
+      <programlisting width="80">						        dummy content        dummy content        dummy content</programlisting>
+      <programlisting width="80">        </programlisting>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy, dummy, dummy, dummy</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___0</title>
+    <para>  dummy content dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___0(syntax='syntax')</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (dummy=dummy, dummy='dummy')</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def (dummy=dummy, dummy='dummy')</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>DETAILS</title>
+      <programlisting width="80">        dummy content        dummy content        dummy content        dummy content
+        dummy content        dummy content</programlisting>
+      <programlisting width="80">		        dummy content        dummy content        dummy content        dummy content
+        dummy content</programlisting>
+      <programlisting width="80">				        dummy content        dummy content        dummy content        dummy
+ content        dummy content</programlisting>
+      <programlisting width="80">						</programlisting>
+      <programlisting width="80">						        dummy content        dummy content        dummy content</programlisting>
+      <programlisting width="80">        </programlisting>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy, dummy, dummy, dummy</para>
+    </section>
+  </section>
+</chapter>

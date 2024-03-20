@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<!DOCTYPE topic PUBLIC '-//Arbortext//ANSYS DTD DocBook XML V4.0//EN' '../../tools/custom_2012/doctypes/ansysdocbook/ansysdocbook.dtd'>
+<chapter condition="ROOT" id="E_Element">
+  <title>E_Element</title>
+  <para>dummy_content dummy_content</para>
+  <para>SEE ALSO:</para>
+  <para>
+    <xref linkend="C_Element"/>
+  </para>
+  <para>
+    <emphasis role="bold">FUNCTIONS:</emphasis>
+  </para>
+  <section>
+    <title condition="SectionHead">Function___K</title>
+    <para>  dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___K(syntax, syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def </para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>EXAMPLE</title>
+      <screen>dummy content</screen>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy</para>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead"> Function___J</title>
+    <para>  dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen> Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (syntax, syntax)</para>
+        </listitem>
+        <listitem>
+          <para> </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+  <section>
+    <title condition="SectionHead">Function___Q</title>
+    <para>  dummy content.</para>
+    <section>
+      <title>Syntax</title>
+      <para>
+        <screen>Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)</screen>
+      </para>
+    </section>
+    <section>
+      <title>ARGUMENTS</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>  arg1 : arg def (dummy=dummy, dummy='dummy')</para>
+        </listitem>
+        <listitem>
+          <para>  arg2 : arg def (dummy=dummy, dummy='dummy')</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>DETAILS</title>
+      <programlisting width="80">        dummy content        dummy content        dummy content        dummy content
+        dummy content        dummy content</programlisting>
+      <programlisting width="80">		        dummy content        dummy content        dummy content        dummy content
+        dummy content</programlisting>
+      <programlisting width="80">				        dummy content        dummy content        dummy content        dummy
+ content        dummy content</programlisting>
+      <programlisting width="80">						</programlisting>
+      <programlisting width="80">						        dummy content        dummy content        dummy content</programlisting>
+      <programlisting width="80">        </programlisting>
+    </section>
+    <section>
+      <title>KEYWORDS</title>
+      <para>dummy, dummy, dummy, dummy, dummy, dummy</para>
+    </section>
+  </section>
+</chapter>

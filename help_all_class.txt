@@ -1,0 +1,644 @@
+CLASS:
+A_Element
+ dummy content.
+
+SEE ALSO:
+ F_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___A(syntax, syntax=syntax)
+  dummy content.
+
+RETURN VALUE
+  dummy content.
+
+>>  Function___B(syntax, syntax=syntax)
+    dummy content.
+
+ARGUMENTS
+  arg : arg def 
+
+
+CLASS:
+B_Element
+dummy content.
+
+SEE ALSO:
+ H_Element
+
+
+DETAILS:
+dummy content.
+
+FUNCTIONS:
+
+>>  Function___C(syntax, syntax=syntax)
+  dummy content.
+
+RETURN VALUE
+dummy content.
+
+>>  Function___D(syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+   arg : arg def 
+
+
+CLASS:
+C_Element
+dummy content.
+
+SEE ALSO:
+ D_Element
+ H_Element
+
+
+DETAILS:
+dummy_content dummy_content
+
+FUNCTIONS:
+
+>>  Function___E(syntax, syntax=syntax)
+  dummy content
+
+ARGUMENTS
+  arg1 : arg def
+  arg2 : arg def
+  arg3 : arg def
+  arg4 : arg def
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+>>  Function___E(syntax, syntax={'syntax': 'syntax', 'syntax': syntax}
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (type=syntax, required=syntax)
+  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})
+  arg3 : arg def (type=dict, default_value={'dummy', 'dummy'})
+  arg4 : arg def (type=str, default_value=arg def)
+  arg5 : arg def (type=dict, default_value=arg def)
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+>>  Function___F(syntax, syntax={'syntax': 'syntax', 'syntax': syntax}
+  dummy content
+
+ARGUMENTS
+  arg1 : arg def (type=syntax, required=syntax)
+  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})
+  arg3 : arg def (type=dict, default_value={'dummy', 'dummy'})
+
+RETURN VALUE
+dummy content
+
+KEYWORDS
+dummy, dummy, dummy
+
+>>  Function___G(syntax=syntax, syntax=syntax)
+  dummy content dummy content.
+
+ARGUMENTS
+  arg1 : arg def (type=syntax, required=syntax)
+  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})
+
+RETURN VALUE
+dummy content
+
+KEYWORDS
+dummy, dummy, dummy
+
+>>  Function___H(syntax, syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (type=syntax, required=syntax)
+  arg2 : arg def (type=dict, default_value={'dummy', 'dummy'})
+  arg3 : arg def (type=dict, default_value={'dummy', 'dummy'})
+
+RETURN VALUE
+dummy content
+
+>>  Function___I(syntax=syntax, syntax=syntax)
+  dummy content dummy content.
+
+>>  Function___J(syntax=syntax, syntax=syntax)
+  dummy content dummy content.
+
+RETURN VALUE
+
+        dummy content dummy content : dict of {dummy('dummy') : [dummy('dummy')]}
+        dummy content dummy content  : dict of {dummy('dummy') : [dummy('dummy')]}
+        
+
+DETAILS
+
+        dummy content dummy content. dummy content dummy content.
+        
+
+SEE ALSO
+H_Element
+Function___C in A_Element
+G_Element
+
+KEYWORDS
+dummy, dummy, dummy
+
+>>  Function___K(syntax)
+  dummy content dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax=syntax, syntax=syntax)
+
+RETURN VALUE
+dummy content; dummy content
+
+KEYWORDS
+dummy, dummy, dummy
+
+>>  Function___L()
+  dummy content dummy content.
+
+>>  Function___M()
+  dummy content dummy content.
+
+RETURN VALUE
+dummy content dummy content.
+
+>>  Function___N(syntax='syntax')
+  dummy content dummy content.
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+>>  Function___0(syntax='syntax')
+  dummy content dummy content.
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+
+CLASS:
+D_Element
+dummy content dummy content.
+
+SEE ALSO:
+
+
+DETAILS:
+
+
+FUNCTIONS:
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+        
+
+>>  Function___R(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+CLASS:
+E_Element
+dummy_content dummy_content
+
+SEE ALSO:
+C_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___K(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+>>   Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax, syntax)
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+CLASS:
+F_Element
+dummy_content dummy_content
+
+SEE ALSO:
+C_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___K(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+>>   Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax, syntax)
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+CLASS:
+G_Element
+dummy_content dummy_content
+
+SEE ALSO:
+F_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___K(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+>>   Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax, syntax)
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+
+CLASS:
+G_Element
+dummy_content dummy_content
+
+SEE ALSO:
+F_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___K(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+>>   Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax, syntax)
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+CLASS:
+H_Element
+dummy_content dummy_content
+
+SEE ALSO:
+G_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___K(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+>>   Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax, syntax)
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+CLASS:
+I_Element
+dummy_content dummy_content
+
+SEE ALSO:
+G_Element
+
+
+DETAILS:
+
+
+FUNCTIONS:
+
+>>  Function___K(syntax, syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def 
+
+EXAMPLE
+dummy content
+
+KEYWORDS
+dummy, dummy
+
+
+>>   Function___J(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+ARGUMENTS
+  arg1 : arg def (syntax, syntax)
+ 
+>>  Function___Q(syntax, syntax='syntax', syntax=syntax, syntax=syntax)
+  dummy content.
+
+
+ARGUMENTS
+  arg1 : arg def (dummy=dummy, dummy='dummy')
+  arg2 : arg def (dummy=dummy, dummy='dummy')
+
+DETAILS
+
+        dummy content        dummy content        dummy content        dummy content        dummy content        dummy content
+		        dummy content        dummy content        dummy content        dummy content        dummy content
+				        dummy content        dummy content        dummy content        dummy content        dummy content
+						
+						        dummy content        dummy content        dummy content
+        
+
+KEYWORDS
+dummy, dummy, dummy, dummy, dummy, dummy
+
+CLASS:
+J_Element
+ dummy content.
+
+SEE ALSO:
+ dummy content.
+
+
+DETAILS:
+dummy content
+
+FUNCTIONS:
+
+>>  Function___X(syntax, syntax=syntax)
+  dummy content.
+
+RETURN VALUE
+  dummy content.
+
+>>  Function___Y(syntax, syntax=syntax)
+    dummy content.
+
+ARGUMENTS
+  arg1 : arg def 
+  arg2 : arg def
+
+CLASS:
+K_Element
+ dummy content.
+
+SEE ALSO:
+ dummy content.
+
+
+DETAILS:
+dummy content
+
+FUNCTIONS:
+
+>>  Function___X(syntax, syntax=syntax)
+  dummy content.
+
+RETURN VALUE
+  dummy content.
+
+>>  Function___Y(syntax, syntax=syntax)
+    dummy content.
+
+ARGUMENTS
+  arg : arg def 
+
+
+

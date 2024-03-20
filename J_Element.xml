@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<!DOCTYPE topic PUBLIC '-//Arbortext//ANSYS DTD DocBook XML V4.0//EN' '../../tools/custom_2012/doctypes/ansysdocbook/ansysdocbook.dtd'>
+<chapter condition="ROOT" id="J_Element">
+  <title>J_Element</title>
+  <para> dummy content.</para>
+  <para>SEE ALSO:</para>
+  <para>
+    <xref linkend=" dummy content."/>
+  </para>
+  <para>DETAILS:</para>
+  <programlisting width="80">dummy content</programlisting>
+  <para>
+    <emphasis role="bold">FUNCTIONS:</emphasis>
+  </para>
+</chapter>
