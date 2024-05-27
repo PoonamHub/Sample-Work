@@ -31,4 +31,4 @@ Currently, about 10% post-processing and formatting involved in the authoring en
 
 **Current Dummy Project - Sample Work**
 
-The dummy project replaces the content for these 140+ APIs with 11 dummy APIs (A,B,C,D,E,F,G,H,I,J,K). This example has the script2 which parses the content of help_all_class.txt into individual XML files. Sample outputs are placed under the Output folder.
+The dummy project replaces the content for these 140+ APIs with 11 dummy APIs (A,B,C,D,E,F,G,H,I,J,K). This example has the "script2" which parses the content of help_all_class.txt into individual XML files. Sample outputs are placed under the Output folder.
