@@ -2,11 +2,11 @@
 
 Refer "ppt_overview.pdf" file. Study the structure of the input "help_all_class.txt", map the structure of your API. Ensure you have a similarly structured input. Download the script "classes_code.ipynb", make edits according to your API structure and specify the DTD files as per your organization. Run the script.
 
-**Summary of the topic** 
+**Summary of the Problem** 
 
 A software has around 140+ APIs which are available in a python dictionary. These APIs are well structured and have a short description about their usage, keys, arguments etc. Currently, the help for these APIs are only available through the tool GUI or command prompt. The user does not have a PDF/HTML document. 
 
-**Solution**
+**Solution in this Script**
 
 A tool command dumps the compiled information for all APIs in a python file (help.py). 
 
