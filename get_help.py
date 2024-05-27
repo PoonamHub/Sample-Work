@@ -8,7 +8,7 @@ for first_dict in full_dict['cont1']:
 	first_name = first_dict['name']
 	f1.write("\nCONTAINER:\n"+cont1_name +"\n\n" "ELEMENTS:\n\n")
 	for end_cont_dict in first_dict['elements']:
-		help_text = gp.HelpInfoToTextConverter.convert_element_help(element_dict)
+		help_text = repo.HelpInfoToTextConverter.convert_element_help(element_dict)
 		f1.write(">>  ")
 		f1.write(help_text +"\n")
 f1.close()
@@ -34,7 +34,7 @@ for cls_dict in full_dict['classes']:
 	f2.write("\n\nELEMENTS:\n\n")
  
 	for element_dict in cls_dict['elements']:
-		help_text = gp.HelpInfoToTextConverter.convert_element_help(element_dict)
+		help_text = repo.HelpInfoToTextConverter.convert_element_help(element_dict)
 		f2.write(">>  ")
 		f2.write(help_text +"\n")
 f2.close()
